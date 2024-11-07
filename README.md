@@ -1,11 +1,10 @@
 # TemporaryFileOpener for macOS
 
-![App Icon](![image](https://github.com/user-attachments/assets/151896d1-0315-473d-8bcd-4c646175e256))
+![image](https://github.com/user-attachments/assets/151896d1-0315-473d-8bcd-4c646175e256)
 
 **TemporaryFileOpener** is a macOS application built with Swift that enables users to quickly create and open temporary `.txt` and `.yaml` files on their system. Ideal for quick edits or temporary notes, this lightweight app offers a simple interface for generating and viewing files without cluttering up your storage.
 
-![Main Interface Screenshot](<img width="348" alt="image" src="https://github.com/user-attachments/assets/11292d83-a7a8-4451-992b-1dc7e47a0276">
-)
+<img width="348" alt="image" src="https://github.com/user-attachments/assets/11292d83-a7a8-4451-992b-1dc7e47a0276">
 
 ## Features
 
@@ -28,7 +27,7 @@
 4. **Save or Close**:
    - Save your changes to a temporary location, or simply close the file when done.
 
-![File Creation Screenshot](<img width="735" alt="image" src="https://github.com/user-attachments/assets/8bc8aa03-2c2f-4087-9555-40d3b503ea89">)
+<img width="735" alt="image" src="https://github.com/user-attachments/assets/8bc8aa03-2c2f-4087-9555-40d3b503ea89">
 
 ## Requirements
 
